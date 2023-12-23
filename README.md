@@ -79,3 +79,8 @@ pip install tensorflow
 ------------------
 
 donot forget to change paths in the code 
+
+some files bigger than 25MB so I uploaded it to my google drive and u can access it from this link: 
+https://drive.google.com/drive/folders/1Bm9p3JMH8Ndf-5z9HAbh3Q3CrnuEQf3s?usp=sharing
+
+after downloading every thing in this link attach files to project folder 
