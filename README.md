@@ -34,29 +34,17 @@ it powered by using AI model and python code
 # requirements library:
 -----------------------
 import os
-
 import csv
-
 import cv2
-
 import cv2.face
-
 import datetime
-
 import time
-
 import pandas as pd
-
 import numpy as np
-
 from PIL import Image
-
 from threading import Thread
-
 import tensorflow as tf
-
 from tensorflow.keras.models import load_model
-
 
 
 
@@ -84,3 +72,9 @@ some files bigger than 25MB so I uploaded it to my google drive and u can access
 https://drive.google.com/drive/folders/1Bm9p3JMH8Ndf-5z9HAbh3Q3CrnuEQf3s?usp=sharing
 
 after downloading every thing in this link attach files to project folder 
+
+
+#Block Diagram:
+---------------
+![image](https://github.com/Eng-Kyrolos-Ehab/AI-powered-attendance-with-facial-recognition/assets/106453561/ca3fcca2-6d7d-4d4d-b235-4e4fcb040354)
+
