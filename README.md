@@ -34,16 +34,27 @@ it powered by using AI model and python code
 # requirements library:
 -----------------------
 import os
+
 import csv
+
 import cv2
+
 import cv2.face
+
 import datetime
+
 import time
+
 import pandas as pd
+
 import numpy as np
+
 from PIL import Image
+
 from threading import Thread
+
 import tensorflow as tf
+
 from tensorflow.keras.models import load_model
 
 
