@@ -1,6 +1,8 @@
 # AI-powered-attendance-with-facial-recognition
 AI-powered attendance with facial recognition, emotions, gender and age detection. Securely stored in Excel.
 
+it powered by using AI model and python code
+
 # requirements library:
 -----------------------
 import os
@@ -42,3 +44,10 @@ pip install numpy
 pip install Pillow
 
 pip install tensorflow
+
+
+
+# important note: 
+------------------
+
+donot forget to change paths in the code 
