@@ -1,4 +1,4 @@
-![image](https://github.com/Eng-Kyrolos-Ehab/AI-powered-attendance-with-facial-recognition/assets/106453561/6266e56b-40bc-48bd-b11b-37a7c623d555)# AI-powered-attendance-with-facial-recognition
+AI-powered-attendance-with-facial-recognition
 AI-powered attendance with facial recognition, emotions, gender and age detection. Securely stored in Excel.
 
 # introduction:
